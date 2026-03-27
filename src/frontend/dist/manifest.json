@@ -1,0 +1,18 @@
+{
+  "name": "StreamWave",
+  "short_name": "StreamWave",
+  "description": "Offline video playback and free WebRTC calls",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B1220",
+  "theme_color": "#0B1220",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/generated/streamwave-logo-transparent.dim_120x120.png",
+      "sizes": "120x120",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
